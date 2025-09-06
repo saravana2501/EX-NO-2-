@@ -226,6 +226,7 @@ int main() {
 
 
 Output:
+
 <img width="914" height="552" alt="Screenshot 2025-09-03 102252" src="https://github.com/user-attachments/assets/9e4fd039-1f89-44b3-a37d-bb8cba633331" />
 
 Result:
